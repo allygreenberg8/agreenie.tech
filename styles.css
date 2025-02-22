@@ -462,3 +462,27 @@ html {
         margin-right: 2rem;
     }
 } 
+
+.coursework {
+  margin-top: 2rem;
+}
+
+.coursework h3 {
+  color: #333;
+  margin-bottom: 1rem;
+}
+
+.coursework ul {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  padding: 0;
+}
+
+.coursework li {
+  background: #f5f5f5;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  font-size: 0.9rem;
+}
